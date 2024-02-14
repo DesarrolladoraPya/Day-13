@@ -3,3 +3,4 @@
 ## Fatima
 ### AI trends and computing plataforms
 #### Github
+#### Type of licenses
