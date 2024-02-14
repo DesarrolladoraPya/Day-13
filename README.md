@@ -1,6 +1,6 @@
 # Day-13
-
-## Fatima
+## AI
 ### AI trends and computing plataforms
 #### Github
 ##### Type of licenses
+###### Apache License
