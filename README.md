@@ -1,5 +1,5 @@
 # Day-13
-## AI
+## Artifical Intelligence
 ### AI trends and computing plataforms
 #### Github
 ##### Type of licenses
